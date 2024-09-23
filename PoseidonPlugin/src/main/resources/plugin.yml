@@ -1,0 +1,3 @@
+name: PoseidonPlugin
+main: org.example.poseidonplugin.PoseidonPlugin
+version: 1.0
