@@ -1,5 +1,7 @@
 # Project Poseidon plugin template
 
+Archived as [an official one was released](https://github.com/retromcorg/Poseidon-Plugin-Template).
+
 Plugin template for [Project Poseidon](https://github.com/RhysB/Project-Poseidon), a Bukkit CB1060 fork.
 
 ## Instructions
